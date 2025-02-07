@@ -33,7 +33,7 @@ CREATE TABLE IF NOT EXISTS `board_games`.`login` (
 
 CREATE TABLE IF NOT EXISTS `board_games`.`token` (
     `id` int(11) NOT NULL AUTO_INCREMENT,
-    `token` varchar(255) NOT NULL,
+    `token` int(255) NOT NULL,
     `token_value` int(11) NOT NULL,
     PRIMARY KEY (`id`)
 )
