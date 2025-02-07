@@ -1,6 +1,6 @@
 Base de données de Board Games
 
-Ce scipt est une base de données board-games avec l'objectif de gérer des jeux de société en ligne. Cette base contient plusieurs tables permettant des comptes des utilisateurs, leurs achats et leurs jetons virtuels .
+Ce script est une base de données board-games avec l'objectif de gérer des jeux de société en ligne. Cette base contient plusieurs tables permettant des comptes des utilisateurs, leurs achats et leurs jetons virtuels .
 
 
 
